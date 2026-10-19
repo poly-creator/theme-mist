@@ -1,0 +1,8 @@
+{
+	"name": "@poly-creator/theme-mist",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"pack": "node scripts/pack.mjs"
+	}
+}

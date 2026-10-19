@@ -1,0 +1,10 @@
+{
+	"id": "example.mist",
+	"name": "Mist",
+	"version": "0.1.0",
+	"author": "PolyCreator",
+	"description": "Example theme family for theme authors: one cool-gray light theme and one matching dark theme. Copy this repo to make your own.",
+	"theme": {
+		"files": ["theme.json", "theme-dark.json"]
+	}
+}
