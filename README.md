@@ -1,5 +1,8 @@
 # Mist — PolyCreator example theme family
 
+> The app these themes belong to: **https://polycreator.si** — download it there, or
+> read the [help center](https://polycreator.si/help).
+
 Reference for theme authors. A theme plugin is **data-only**: no JS, just
 `manifest.json` + theme JSON files. This repo ships a family of two:
 
