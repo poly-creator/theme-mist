@@ -1,6 +1,7 @@
 {
 	"name": "@poly-creator/theme-mist",
 	"version": "0.1.0",
+	"license": "MIT",
 	"private": true,
 	"scripts": {
 		"pack": "node scripts/pack.mjs"
